@@ -1,4 +1,9 @@
 # m3u8-dl
+by CINEFy
+
+---
+This is explictly for educational and authorized use only
+---
 
 Fast HLS (`.m3u8`) downloader written in pure Python. It keeps a pool of
 keep-alive HTTP connections, downloads segments in parallel, writes them
